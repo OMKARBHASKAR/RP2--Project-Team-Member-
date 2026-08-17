@@ -1,15 +1,20 @@
-Project Contribution – RP2 Company, Kozhikode
 Duration: 1 Week
 Role: Project Team Member
 
-About:
+Description:
 
-Collaborated with the project team to design and implement customized dashboards for client reporting.
+Collaborated with the team to design and implement customized dashboards for client reporting.
 
-Contributed to building sales report summaries with drill-through features for transaction-level insights.
+Built Sales Report Summaries with drill-through features for transaction-level insights.
 
-Assisted in configuring dynamic date filters (Booked Date, Need By Date, etc.) to improve usability.
+Configured dynamic date filters (Booked Date, Need By Date, etc.) to improve usability.
 
-Supported categorization of sales data by payment type (Card, Online, Cheque, Cash, Bitcoin).
+Categorized sales data by payment type (Card, Online, Cheque, Cash, Bitcoin).
 
-Ensured clarity, accuracy, and user-friendly visualization in dashboard outputs.
+Installed and configured MySQL Workbench; created database VioletProd and imported tables from Excel sheets.
+
+Established relationships between tables and solved incidents using Power BI data modeling.
+
+Developed a Sales Details Dashboard with invoice-date filters (3, 6, 9, 12 months).
+
+Implemented calculated fields for extended sell price (tax + discount) and added sales status filters for better analysis
