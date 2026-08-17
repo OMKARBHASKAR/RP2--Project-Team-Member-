@@ -1,7 +1,7 @@
 Duration: 1 Week
 Role: Project Team Member
 
-Description:
+About it:
 
 Collaborated with the team to design and implement customized dashboards for client reporting.
 
